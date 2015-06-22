@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nliveo_verde_alpha_colorPrimaryDark">#8275c37e</color>
+    <color name="nliveo_verde_colorAccent">#c375c37e</color>
+    <color name="nliveo_verde_colorPrimary">#ff75c37e</color>
+    <color name="nliveo_verde_colorPrimaryDark">#ff61a869</color>
+
+    <color name="nliveo_azul_alpha_colorPrimaryDark">#cb005b99</color>
+    <color name="nliveo_azul_colorAccent">#d0005b99</color>
+    <color name="nliveo_azul_colorPrimary">#ff005b99</color>
+    <color name="nliveo_azul_colorPrimaryDark">#ff074a99</color>
+</resources>

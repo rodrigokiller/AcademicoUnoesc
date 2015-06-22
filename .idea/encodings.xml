@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/rodrigo/academicounoesc/ui/activity/LoginActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_avatar.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_unoesc.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/integralizacao_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/library_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/library_books_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/integralizacao_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/library_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/library_books_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/integralizacao_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/library_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/library_books_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/integralizacao_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/library_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/library_books_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/integralizacao_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/library_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/library_books_24dp.png" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

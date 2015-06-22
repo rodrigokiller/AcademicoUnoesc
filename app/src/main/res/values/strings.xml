@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Academico Unoesc</string>
+
+    <!-- Dados do login -->
+    <string name="sign_in">Sign in</string>
+
+    <!-- Navigation Drawer -->
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="drafts">Drafts</string>
+    <string name="categories">Categories</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="settings">Configurações</string>
+
+    <!-- Navigation Drawer Unoesc -->
+    <string name="academico">Acadêmico</string>
+    <string name="consulta_notas">Consulta de Notas</string>
+    <string name="integralizacao">Integralização</string>
+    <string name="material_didatico">Material Didático</string>
+    <string name="aula_online">Aula Online</string>
+    <string name="situacao_financeira">Situação Financeira</string>
+
+    <!-- Action Bar -->
+    <string name="search">Pesquisar</string>
+    <string name="action_exit">Sair</string>
+
+    <string name="important">Important</string>
+    <string name="documents">Documents</string>
+
+    <!-- Toast -->
+    <string name="open_user_profile">Open user profile</string>
+    <string name="open_settings">Open settings</string>
+</resources>

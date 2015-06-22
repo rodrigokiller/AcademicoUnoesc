@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Unoesc Dark Action Bar -->
+    <style name="Unoesc" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/nliveo_verde_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_verde_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_verde_colorPrimaryDark</item>
+    </style>
+
+    <!-- Unoesc Light -->
+    <style name="UnoescLight" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/nliveo_verde_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_verde_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_verde_colorPrimaryDark</item>
+    </style>
+
+    <!--Here will be the theme of the class that will extends NavigationLiveo-->
+    <style name="nLiveoDrawer" parent="nLiveo.Theme.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/nliveo_verde_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_verde_alpha_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_verde_colorPrimaryDark</item>
+    </style>
+
+    <!-- Unoesc Blue Dark Action Bar -->
+    <style name="UnoescBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/nliveo_azul_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_azul_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_azul_colorPrimaryDark</item>
+    </style>
+
+    <!-- Unoesc Blue Light -->
+    <style name="UnoescBlueLight" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/nliveo_azul_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_azul_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_azul_colorPrimaryDark</item>
+    </style>
+
+    <!--Here will be the blue theme of the class that will extends NavigationLiveo-->
+    <style name="nLiveoDrawerBlue" parent="nLiveo.Theme.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/nliveo_azul_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/nliveo_azul_alpha_colorPrimaryDark</item>
+        <item name="colorAccent">@color/nliveo_azul_colorPrimaryDark</item>
+    </style>
+
+</resources>
